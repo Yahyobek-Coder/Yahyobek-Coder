@@ -1,9 +1,9 @@
-<h1 align="center">Hi ??, I'm Ismoilov Yahyobek</h1>
+<h1 align="center">Hi 👋, I'm Ismoilov Yahyobek</h1>
 <h3 align="center">I'm a Front-end Developer</h3>
 
-- ????? All of my projects are available at [https://github.com/Yahyobek-Coder](https://github.com/Yahyobek-Coder)
+- 👨‍💻 Github Page [https://github.com/Yahyobek-Coder](https://github.com/Yahyobek-Coder)
 
-- ?? How to reach me **yahyobek7316@gmail.com**
+- 📫 Gmail **yahyobek7316@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
