@@ -13,6 +13,7 @@
 - :computer: I'm currently working on PHP & Python
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: I Do Bodybuilding & Sport
+- ☎️ +998770157316
 - 🤝 I'm always ready to work with a partner
 
 ## Technologies
