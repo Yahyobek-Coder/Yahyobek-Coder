@@ -8,17 +8,15 @@
  ###### <img align="right" alt="GIF" src="https://github.com/Yahyobek-Coder/Yahyobek-Coder/blob/main/code.gif?raw=true" width="380" height="280" />
   
   
- ### <h2 align="left">👨🏻‍💻 About Me:</h2>
+ <h2 align="left">??????? About Me:</h2>
 
-- :computer: I'm currently working on PHP & Python
+- :computer: I'm currently working on Laravel & Vue
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
 
-
-
-⚡ Technologies
+## ? Technologies
 
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
