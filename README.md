@@ -10,8 +10,7 @@
   
  <h2 align="left"> About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
+- :computer: I'm currently working on PHP & Python
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: I Do Bodybuilding & Sport
 - :rocket: I'm always ready to work with a partner
