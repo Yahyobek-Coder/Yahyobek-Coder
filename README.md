@@ -14,6 +14,7 @@
 - :triangular_flag_on_post: I teach code on YouTube
 - :muscle: I Do Bodybuilding & Sport
 - ☎️ +998770157316
+- 💯 WORK
 - 📫 yahyobek7316@gmail.com
 - 📫 yahyobekismoilov2007@gmail.com
 - 🤝 I'm always ready to work with a partner
