@@ -13,6 +13,8 @@
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
 
+  <img align="right" alt="GIF" src="https://github.com/Yahyobek-Coder/Yahyobek-Codercode.gif?raw=true" width="500" height="320" />
+
 ## ⚡ Technologies
 
 ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
