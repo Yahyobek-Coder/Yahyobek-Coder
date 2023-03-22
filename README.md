@@ -8,7 +8,7 @@
   
   
   
-  <h2 align="left">👨🏻‍💻 About Me:</h2>
+  ## <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on PHP & Python
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
