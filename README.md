@@ -45,8 +45,7 @@
   ![Image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 
   ![Image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  ![Image](https://img.shields.io/badge/FF0004?style=flat-square&logo=youtube&logoColor=white)
+  ![Image](https://img.shields.io/badge/youtube-square&logo=youtube&logoColor=white)
   ![Image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![Image](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
