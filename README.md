@@ -15,8 +15,6 @@
 - :muscle: I Do Bodybuilding & Sport
 - ☎️ +998770157316
 - 💯 I WORK
-- 📫 yahyobek7316@gmail.com
-- 📫 yahyobekismoilov2007@gmail.com
 - 🤝 I'm always ready to work with a partner
 
   <h2 align="left"> ⚡️ Technologies</h2>
@@ -34,7 +32,6 @@
   ![Image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff)
 
-  ![Image](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=5FCFEE)
   ![Image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
   ![Image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
