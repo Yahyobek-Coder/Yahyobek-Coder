@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismoilov Yahyobek</h1>
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <h2 align="center">I'm a Full-Stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
