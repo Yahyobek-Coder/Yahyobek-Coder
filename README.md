@@ -12,16 +12,14 @@
   
  <h2 align="left"> About Me:</h2>
 
-  <h6>
+ <h2 align="left"> About Me:</h2>
+
   - :computer: I'm currently working on PHP & Python
   - :triangular_flag_on_post: I teach code on YouTube
   - :muscle: I Do Bodybuilding & Sport
   - ☎️ +998770157316
   - 💯 I WORK
   - 🤝 I'm always ready to work with a partner
-</h6>
-
-
 
   <h2 align="left"> ⚡️ Technologies</h2>
 
