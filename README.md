@@ -12,8 +12,6 @@
   
  <h2 align="left"> About Me:</h2>
 
- <h2 align="left"> About Me:</h2>
-
   - :computer: I'm currently working on PHP & Python
   - :triangular_flag_on_post: I teach code on YouTube
   - :muscle: I Do Bodybuilding & Sport
