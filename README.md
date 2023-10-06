@@ -37,14 +37,16 @@
   ![Image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff)
 
-  ![Image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
   ![Image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+  ![Image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 
   ![Image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
   ![Image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=A1D993)
-  ![Image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=FCF84C)
-  ![Image](https://img.shields.io/badge/-PHPStorm-9C27FF?style=for-the-badge&logo=phpstorm&logoColor=white)
+  ![Image](https://img.shields.io/badge/PyCharm-DCF453.svg?&style=for-the-badge&logo=PyCharm&logoColor=FCF84C)
+  ![Image](https://img.shields.io/badge/-PHPStorm-B24BF8?style=for-the-badge&logo=phpstorm&logoColor=white)
 
   ![Image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
