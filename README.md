@@ -47,6 +47,6 @@
   ![Image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
   ![Image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=A1D993)
   ![Image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=FCF84C)
-  ![Image](https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=B118F4)
+  ![Image](https://img.shields.io/badge/-PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=BB50F6)
 
   ![Image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
